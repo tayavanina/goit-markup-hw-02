@@ -22,7 +22,6 @@
 }
 
 .button-order:hover,
-.button-order:focus,
-.button-order:active {
-  color: #404bbf;
+.button-order:focus {
+  background-color: #404bbf;
 }
