@@ -12,16 +12,17 @@
   letter-spacing: 0.02em;
 }
 
-#header .accent-web {
+.accent-web {
   color: #4d5ae5;
 }
-#header .logo {
+.logo {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 18px;
 }
 
 .contacts a:hover,
+.contacts a:focus,
 .contacts a:active {
   color: #404bbf;
 }
@@ -31,4 +32,6 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
+  font-style: normal;
 }

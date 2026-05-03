@@ -1,18 +1,18 @@
-#footer {
+.footer-section {
   background-color: #2e2f42;
 }
 
-#footer .accent-web {
+.footer-section .accent-web {
   color: #4d5ae5;
 }
-#footer .logo {
+.footer-section .logo {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 18px;
   color: #f4f4fd;
 }
 
-#footer p {
+.footer-section p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;

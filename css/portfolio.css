@@ -1,4 +1,4 @@
-#portfolio h2 {
+.portfolio-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
@@ -6,14 +6,14 @@
   text-align: center;
 }
 
-#portfolio .list-portfolio .title-list-portfolio {
+.list-portfolio .title-list-portfolio {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-#portfolio .list-portfolio .text-list-portfolio {
+.list-portfolio .text-list-portfolio {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
